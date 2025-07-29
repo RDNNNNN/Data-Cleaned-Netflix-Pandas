@@ -14,7 +14,7 @@
 
 `titles.csv` 包含電影及電視劇相關信息，包括影視作品ID、標題、類型、描述、流派、IMDB（一個國外的在線評分網站）評分等 
 
-`credits.csv` 包含超過7萬名出現在 Netflix 影視作品的導演及演員訊息，包括名字、影視作品ID、人物名、演員類型（導演/演員）等
+`credits.csv` 包含超過 7 萬名出現在 Netflix 影視作品的導演及演員訊息，包括名字、影視作品 ID、人物名、演員類型（導演/演員）等
 
 `titles.csv` 每列的意思如下：
 - id：影視作品 ID
@@ -38,4 +38,4 @@
 - id：參與的影視作品 ID
 - name：姓名
 - character_name：角色姓名
-- role：演員類型，演員或導演# Data-Cleaned-Netflix-Pandas
+- role：演員類型，演員或導演
